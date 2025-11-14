@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\shana\\OneDrive\\Documents\\Unreal Projects\\PFE_Bacharo_backup_BlockingMenuEtEncoreAvantPersonnage\\PFE_Bacharo\\Intermediate\\Source\\PFE_Bacharo.Build.cs",
+		"C:\\Users\\shana\\OneDrive\\Documents\\Unreal Projects\\PFE_Bacharo_backup_BlockingMenuEtEncoreAvantPersonnage\\PFE_Bacharo\\Intermediate\\Source\\PFE_Bacharo.Target.cs",
+		"C:\\Users\\shana\\OneDrive\\Documents\\Unreal Projects\\PFE_Bacharo_backup_BlockingMenuEtEncoreAvantPersonnage\\PFE_Bacharo\\Intermediate\\Source\\PFE_BacharoClient.Target.cs",
+		"C:\\Users\\shana\\OneDrive\\Documents\\Unreal Projects\\PFE_Bacharo_backup_BlockingMenuEtEncoreAvantPersonnage\\PFE_Bacharo\\Intermediate\\Source\\PFE_BacharoEditor.Target.cs",
+		"C:\\Users\\shana\\OneDrive\\Documents\\Unreal Projects\\PFE_Bacharo_backup_BlockingMenuEtEncoreAvantPersonnage\\PFE_Bacharo\\Intermediate\\Source\\PFE_BacharoServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

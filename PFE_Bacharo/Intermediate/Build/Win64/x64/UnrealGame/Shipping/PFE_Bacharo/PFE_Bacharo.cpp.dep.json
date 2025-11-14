@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\shana\\onedrive\\documents\\unreal projects\\pfe_bacharo_backup_blockingmenuetencoreavantpersonnage\\pfe_bacharo\\intermediate\\source\\pfe_bacharo.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\shana\\onedrive\\documents\\unreal projects\\pfe_bacharo_backup_blockingmenuetencoreavantpersonnage\\pfe_bacharo\\intermediate\\build\\win64\\x64\\pfe_bacharo\\shipping\\core\\sharedpch.core.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\shana\\onedrive\\documents\\unreal projects\\pfe_bacharo_backup_blockingmenuetencoreavantpersonnage\\pfe_bacharo\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\pfe_bacharo\\definitions.pfe_bacharo.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
